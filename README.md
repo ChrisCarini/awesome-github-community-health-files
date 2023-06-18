@@ -4,8 +4,14 @@ A curated list of Awesome [GitHub community health files](https://docs.github.co
 
 ## Contents
 
-- [Section](#section)
-- [Another Section](#another-section)
+- [`README.md`](#readmemd)
+- [`CODE_OF_CONDUCT.md`](#code_of_conductmd)
+- [`CONTRIBUTING.md`](#contributingmd)
+- [`GOVERNANCE.md`](#governancemd)
+- [Issue and pull request templates](#issue-and-pull-request-templates)
+- [`SECURITY.md`](#securitymd)
+- [`SUPPORT.md`](#supportmd)
+- [Contributing](#contributing)
 
 ## `README.md`
 
