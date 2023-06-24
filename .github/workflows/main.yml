@@ -1,13 +1,12 @@
-# WARNING: DISABLED UNTIL https://github.com/sindresorhus/awesome-lint/issues/166 IS RESOLVED.
-#name: CI
-#on:
-#  pull_request:
-#    branches: [ main ]
-#jobs:
-#  Awesome_Lint:
-#    runs-on: ubuntu-latest
-#    steps:
-#      - uses: actions/checkout@v2
-#        with:
-#          fetch-depth: 0
-#      - run: npx awesome-lint
+name: CI
+on:
+  pull_request:
+    branches: [ main ]
+jobs:
+  Awesome_Lint:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v2
+        with:
+          fetch-depth: 0
+      - run: npx awesome-lint
