@@ -11,7 +11,6 @@ A curated list of Awesome [GitHub community health files](https://docs.github.co
 - [Issue and pull request templates](#issue-and-pull-request-templates)
 - [`SECURITY.md`](#securitymd)
 - [`SUPPORT.md`](#supportmd)
-- [Contributing](#contributing)
 
 ## `README.md`
 
@@ -53,16 +52,6 @@ A CONTRIBUTING file communicates how people should contribute to your project.
 - [public-apis/public-apis](https://github.com/public-apis/public-apis/blob/master/CONTRIBUTING.md) - A contributing file for a list of public APIs.
 - [sindresorhus/awesome - contributing.md](https://github.com/sindresorhus/awesome/blob/main/contributing.md) - A contributing file for a large 'awesome-list'.
 - [tensorflow/tensorflow](https://github.com/tensorflow/tensorflow/blob/master/CONTRIBUTING.md) - A contributing file for the popular TensorFlow project.
-
-[//]: # (## `FUNDING.yml`)
-
-[//]: # ()
-
-[//]: # (A FUNDING file displays a sponsor button in your repository to increase the visibility of funding options for your open source project.)
-
-[//]: # ()
-
-[//]: # (- [GitHub Docs - "Displaying a sponsor button in your repository"]&#40;https://docs.github.com/en/github/administering-a-repository/displaying-a-sponsor-button-in-your-repository&#41; - Official GitHub docs on displaying a sponsor information in your repository.)
 
 ## `GOVERNANCE.md`
 
