@@ -80,6 +80,7 @@ Issue and pull request templates customize and standardize the information you'd
 - [tensorflow/tensorflow - ISSUE_TEMPLATE.md](https://github.com/tensorflow/tensorflow/blob/master/ISSUE_TEMPLATE.md)
 <!--lint ignore awesome-spell-check-->
 - [vuejs/vue](https://github.com/vuejs/vue/blob/main/.github/PULL_REQUEST_TEMPLATE.md) - A pull request template for the Vue.js project.
+- [PR Quality Kit](https://creativecodingsolutions.github.io/pr-quality-analyzer/quality-kit/) - A ready-to-use kit with PR templates, CONTRIBUTING section, GitHub Action config, and README badges to enforce PR quality standards. Free, no sign-up.
 
 ## `SECURITY.md`
 
